@@ -6,6 +6,13 @@
 
 ![VScode](https://img.shields.io/badge/VScode-1.95-blue?logo=VScode&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3.13.00-blue?logo=python&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-27.3.1-blue?logo=docker&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-7.0.5-green?logo=mongodb&logoColor=white)
+
+![Kibana](https://img.shields.io/badge/Kibana-8.15.3-orange?logo=kibana&logoColor=white)
 
 ---
 
@@ -26,7 +33,7 @@ Mes cibles principales incluent :
 
 
 
-![alt text](Architecture Pipeline.png)
+![alt text](ArchitecturePipeline.png)
 
 ### Workflow et Schéma d'Architecture
 
