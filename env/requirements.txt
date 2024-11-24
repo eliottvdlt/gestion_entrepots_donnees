@@ -1,0 +1,5 @@
+apache-airflow
+pymongo
+requests
+kibana
+

@@ -1,0 +1,3 @@
+#!C:\Users\eliot\Sup_de_Vinci\M1\projet_entrepot_de_donnees\data_lake_project\env\Scripts\python.exe
+from spark import spark_admin
+spark_admin.main()
