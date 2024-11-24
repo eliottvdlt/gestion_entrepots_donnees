@@ -66,13 +66,6 @@ Mes cibles principales incluent :
 **Configurer les variables d'environnement :**
    Créez un fichier `.env` et renseignez les informations de connexion MongoDB, Airflow ainsi que les liens des deux différents APIs  :
    ```env
-MONGO_USERNAME="******"
-MONGO_PASSWORD="******"
-MONGO_DBNAME="*******"
-MONGO_URI="*********"
-API_URL=http://api.aviationstack.com/v1/flights?access_key=e574184ee43fcf4700913de235d32663
- 
-
 
  MONGO_URI="*********"
 MONGO_DBNAME="*********"
