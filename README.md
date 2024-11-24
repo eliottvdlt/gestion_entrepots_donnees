@@ -1,6 +1,8 @@
 # Projet : Récupération et visualisation de deux APIS
  
 ## Technologies Utilisées
+
+Ivin Hernio ~ Eliott Vaudelet
  
 ### Langage
  
