@@ -1,4 +1,4 @@
-# Projet : Récupération et visualisation de deux APIS
+# Projet : Récupération et visualisation de deux APIs
 
 Réalisé par Ivin Hernio et Eliott Vaudelet
  
